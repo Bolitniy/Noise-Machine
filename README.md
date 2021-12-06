@@ -61,3 +61,11 @@
 [Victoria]: <https://github.com/Yucked/Victoria>
 [LavaLink]: <https://github.com/freyacodes/Lavalink>
 [React.js]: <https://github.com/facebook/react>
+### Инструкция по запуску на локальной машине
+1. Скачать проект
+2. Создать аккаунт бота по следующей ссылке https://discord.com/developers/applications
+3. Во в кладке бот скопировать уникальный токен аккаунта бота![image](https://user-images.githubusercontent.com/66304105/144846726-6f501de4-4b4b-4ecd-aa44-3e6287c3d2b0.png)
+4. В директории прокта заменить указаный в файле Config.json токен на ваш
+5. В любой удобной для вас IDE собрать проект
+6. Запустить проект из IDE либо же через .exe файл созданый вами
+7. Пригласить бота на сервер и пользоватся
